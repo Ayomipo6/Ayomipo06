@@ -5,6 +5,7 @@
 
 `1x VOTD COMING SOON`
 
+<img src="https://img.shields.io/badge/tableau-0052CC?style-for-the-badge&logo=tableau&logoColour=white">
 ---
 
 ### Certifications
@@ -32,7 +33,7 @@
 ---
 ### Tableau Visualisations
 
-<a href = "https://public.tableau.com/static/images/NB/NBAPASSPLAYANALYSIS/Dashboard1/4_3.png">
+<a href = "https://public.tableau.com/app/profile/ayomipo.popoola/viz/NBAPASSPLAYANALYSIS/Dashboard1">
 <img src="https://github.com/user-attachments/assets/f6f2dc6b-d9d3-4dcc-8017-34788a9091be"  width= "25%" />
 
 
