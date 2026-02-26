@@ -5,7 +5,8 @@
 
 `1x VOTD COMING SOON`
 
-<img src="https://img.shields.io/badge/tableau-0052CC?style-for-the-badge&logo=tableau&logoColour=white">
+<img src="https://img.shields.io/badge/Tableau-0052CC?style-for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style-for-the-badge&logo=Python&logoColor=white">
 ---
 
 ### Certifications
